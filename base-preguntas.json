@@ -1,0 +1,88 @@
+[
+    {
+        "categoria": "Quimica Organica",
+        "pregunta": "¿ El siguiente grupo funcional corresponde a?",
+        "respuesta": "Un aldehído",
+        "incorrecta1": "Un alcohol",
+        "incorrecta2": "Un ácido",
+        "incorrecta3": "Una cetona",
+        "imagen": "https://i.ibb.co/djLzgSG/aldeh-do-1.png",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Quimica Organica",
+        "pregunta": "¿El nombre tradicional del siguiente conpuesto es?",
+        "respuesta": "Acetileno",
+        "incorrecta1": "Etino",
+        "incorrecta2": "Etano",
+        "incorrecta3": "ninguno",
+        "imagen": "https://i.ibb.co/S7Fv7qt/acetileno.jpg",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Quimica Organica",
+        "pregunta": " La reacción entre un alcohol y un ácido orgánico produce",
+        "respuesta": "un éster",
+        "incorrecta1": "un éter",
+        "incorrecta2": "una cetona",
+        "incorrecta3": "un aldehído"
+    },
+    {
+        "categoria": "Quimica Organica",
+        "pregunta": "La siguiente formula molecular C5H10 es",
+        "respuesta": "Condensada",
+        "incorrecta1": "semidesarrollada",
+        "incorrecta2": "topologica",
+        "incorrecta3": "ninguna"
+    }, 
+    {
+        "categoria": "Quimica Organica",
+        "pregunta": "La fórmula general de un alcano es",
+        "respuesta": "CnH2n+2",
+        "incorrecta1": "CnH2n",
+        "incorrecta2": "CnH2n-2",
+        "incorrecta3": "CnHn"
+    },  
+    {
+        "categoria": "Quimica Organica",
+        "pregunta": "El DOBLE enlace del buteno está formado por ",
+        "respuesta": "un enlace Sigma y un enlace Pi",
+        "incorrecta1": "dos enlaces Sigma",
+        "incorrecta2": "dos enlaces Pi ",
+        "incorrecta3": "cuatro enlaces de signa"
+    },  
+    {
+        "categoria": "Quimica Organica",
+        "pregunta": "La reacción N2(g) + 3 H2 <-> 2NH3 (g) corresponde a la manifestación de la ley de",
+        "respuesta": "La conservación de la masa",
+        "incorrecta1": "las proporciones múltiples ",
+        "incorrecta2": "las proporciones definidas",
+        "incorrecta3": "las proporciones recíprocas"
+    },
+    {
+        "categoria": "Quimica Organica",
+        "pregunta": "Determinar los coeficientes al balancear por tanteo la reacción",
+        "respuesta": "3,2,1,6",
+        "incorrecta1": "3,6,2,2",
+        "incorrecta2": "1,4,6,6",
+        "incorrecta3": "1,3,5,6",
+        "imagen": "https://i.ibb.co/6Zx7WpB/a2.png",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Quimica Organica",
+        "pregunta": "El triple enlace del hexino está formado por",
+        "respuesta": "un enlace Sigma y dos enlaces Pi",
+        "incorrecta1": "tres enlaces Sigma ",
+        "incorrecta2": "tres enlaces Pi ",
+        "incorrecta3": "seis enlases pi"
+    },
+    {
+        "categoria": "Quimica Organica",
+        "pregunta": "Relacionar el compuesto químico con su nombre Haloalcano",
+        "respuesta":"Clorometano",
+        "incorrecta1": "2- propanona",
+        "incorrecta2": "etanoato de metilo ",
+        "incorrecta3": "Acetileno"
+    }
+]
